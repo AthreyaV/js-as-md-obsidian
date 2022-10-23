@@ -1,8 +1,7 @@
-# txt as md Obsidian plugin
-[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/deathau/txt-as-md-obsidian?style=for-the-badge&sort=semver)](https://github.com/deathau/txt-as-md-obsidian/releases/latest)
-![GitHub All Releases](https://img.shields.io/github/downloads/deathau/txt-as-md-obsidian/total?style=for-the-badge)
+*This is a fork of deathau's [txt-as-md-obsidian](https://github.com/deathau/txt-as-md-obsidian) plugin which simply changes some lines to allow .js files to be opened instead of .txt
 
-A plugin for [Obsidian](https://obsidian.md) which allows editing of txt files as if they were markdown.
+# js as md Obsidian plugin
+A plugin for [Obsidian](https://obsidian.md) which allows editing of js files as if they were markdown.
 
 ![Screenshot](https://github.com/deathau/txt-as-md-obsidian/raw/main/screenshot.png)
 
@@ -11,17 +10,6 @@ A plugin for [Obsidian](https://obsidian.md) which allows editing of txt files a
 The required APIs were only added in Obsidian **0.10.12**, and as such, that is the minimum version of Obsidian required to use this plugin. 
 
 ## Installation
-
-### From within Obsidian
-From Obsidian v0.9.8, you can activate this plugin within Obsidian by doing the following:
-- Open Settings > Third-party plugin
-- Make sure Safe mode is **off**
-- Click Browse community plugins
-- Search for this plugin
-- Click Install
-- Once installed, close the community plugins window and activate the newly installed plugin
-#### Updates
-You can follow the same procedure to update the plugin
 
 ### From GitHub
 - Download the Latest Release from the Releases section of the GitHub Repository
