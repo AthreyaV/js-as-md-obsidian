@@ -1,10 +1,10 @@
 {
-  "id": "txt-as-md-obsidian",
+  "id": "js-as-md-obsidian",
   "version": "0.0.1",
-  "description": "Edit txt files as if they were markdown",
-  "name": "txt as md",
-  "author": "death_au",
-  "authorUrl": "https://github.com/deathau",
+  "description": "Edit js files as if they were markdown",
+  "name": "js as md",
+  "author": "death_au, AthreyaV",
+  "authorUrl": "https://github.com/AthreyaV",
   "isDesktopOnly": false,
   "minAppVersion": "0.10.12"
 }
