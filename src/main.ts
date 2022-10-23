@@ -1,11 +1,11 @@
 import { Plugin } from 'obsidian';
 
-export default class TxtAsMdPlugin extends Plugin {
+export default class JsAsMdPlugin extends Plugin {
 
   async onload() {
     super.onload();
 
     // register the view and extensions
-    this.registerExtensions(["txt"], "markdown");
+    this.registerExtensions(["js"], "markdown");
   }
 }
