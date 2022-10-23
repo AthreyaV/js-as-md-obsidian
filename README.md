@@ -3,8 +3,6 @@
 # js as md Obsidian plugin
 A plugin for [Obsidian](https://obsidian.md) which allows editing of js files as if they were markdown.
 
-![Screenshot](https://github.com/deathau/txt-as-md-obsidian/raw/main/screenshot.png)
-
 ### Compatibility
 
 The required APIs were only added in Obsidian **0.10.12**, and as such, that is the minimum version of Obsidian required to use this plugin. 
